@@ -4,7 +4,6 @@ layout: default
 
 # ePUB Collection
 
-[Blog](./blog.html)
 
 * * *
 
