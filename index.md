@@ -4,19 +4,27 @@ layout: default
 
 # ePUB Collection
 
+[Blog](./blog.html)
+
 * * *
 
 <div>
 <h2><a>Lucky Girl Take the Space To Escape From the Famine</a></h2>
 </div>
 
+<button>
+    <a href="https://www.dropbox.com/scl/fi/7h5pkcgocjf6d5gtr0ft2/Lucky-Girl_-Take-the-Space-To-Escape-From-the-Famine-Qi-Sheng-Man-Man.epub?dl=1" download>Download ePub</a>
+</button>
+
+* * *
+
 <details>
 <summary>
-[Female lead space + male lead rebirth]
+<p>[Female lead space + male lead rebirth]</p>
 
 <p>Yin Miao just picked up an angry book from the ruins of the apocalypse, and accidentally entered the book and became an exiled unlucky person. It’s just that there are poor mountains, bad waters and hungry people everywhere, and they also drag a family who are used to the fine clothes, jade, food and grains.</p>
-
 </summary>
+
 <p>
 Fortunately, the system sent an initial mission gift package-a space, but she just planned to develop the village into her own vegetable basket, meat plate, rice bag, and natural disasters and wars came.</p>
 
@@ -30,9 +38,5 @@ Fortunately, the system sent an initial mission gift package-a space, but she ju
 
 <p>“Then I’ll go even more.”</p>
 
-<p>A flicker of anger flashed in Xiao Xuan’s eyes, and this time, no one could move the slightest bit of what he wanted to protect.e'
-</p>
-
+<p>A flicker of anger flashed in Xiao Xuan’s eyes, and this time, no one could move the slightest bit of what he wanted to protect.</p>
 </details>
-
-<a href="test" download="https://www.dropbox.com/scl/fi/7h5pkcgocjf6d5gtr0ft2/Lucky-Girl_-Take-the-Space-To-Escape-From-the-Famine-Qi-Sheng-Man-Man.epub?dl=1">Download ePub</a>
