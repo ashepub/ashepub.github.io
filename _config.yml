@@ -1,9 +1,9 @@
 title: Arashe
 logo: /assets/img/logo.png
-description: Test website
+description: Book Collection
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
-domain: ashepub.github.io
-url: https://ashepub.github.io
+domain: www.arashe.com
+url: https://www.arashe.com
 baseurl: ""
