@@ -1,9 +1,9 @@
-title: Ashenara
+title: Arashe
 logo: /assets/img/logo.png
 description: Test website
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
-domain: ashenara.github.io
-url: https://ashenara.github.io
+domain: ashepub.github.io
+url: https://ashepub.github.io
 baseurl: ""
