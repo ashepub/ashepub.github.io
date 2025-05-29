@@ -8,4 +8,4 @@ Data on the site is from my collection ePub
 
 - Read with Moon Reader on android
 
-ePub data is just so-so, enough for read.
+I'm not edit to much ePub data, just enough for read.
