@@ -11,6 +11,18 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
+
+    <!--The lines below help include JQuery DataTables into Markdown files-->
+    {%- if page.datatable == true -%}
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>  <!--Add JQuery-->
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.css"> <!--add style sheet-->
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.js"></script> <!--add dataTables-->
+    <script>
+        $(document).ready( function () {
+        $('table.datatable').DataTable();
+        } );
+    </script>
+    {% endif %}
   </head>
   <body>
     <div class="wrapper">
@@ -23,7 +35,7 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <p class="view"><a href="/blog.html">Blog</a></p>
+        
 
       </header>
       <section>
@@ -32,7 +44,7 @@
 
       </section>
       <footer>
-        <p><small></small></p>
+        <p><small>Copyright © 2025 - arashe.com</small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
