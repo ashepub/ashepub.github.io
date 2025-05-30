@@ -38,9 +38,9 @@
 <!-- end custom head snippets -->
 
 
-    <!--The lines below help include JQuery DataTables into Markdown files--><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>  <!--Add JQuery-->
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.css"> <!--add style sheet-->
-    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.js"></script> <!--add dataTables-->
+    <!--The lines below help include JQuery DataTables into Markdown files--><script src="/assets/js/jquery.min.js"></script>  <!--Add JQuery-->
+    <link rel="stylesheet" href="/assets/css/dataTables.css"> <!--add style sheet-->
+    <script src="/assets/js/dataTables.js"></script> <!--add dataTables-->
     <script>
         $(document).ready( function () {
         $('table.datatable').DataTable();
@@ -116,6 +116,20 @@
         <p><small>Copyright © 2025 - arashe.com</small></p>
       </footer>
     </div>
+
     <script src="/assets/js/scale.fix.js"></script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
+    <script>
+      function addDarkmodeWidget() {
+        new Darkmode().showWidget();
+        window.addEventListener('load', addDarkmodeWidget);
+      }
+      const options = {
+        label: '🌓',
+      }
+      const darkmode = new Darkmode(options);
+            darkmode.showWidget();
+    </script>  
   </body>
 </html>
